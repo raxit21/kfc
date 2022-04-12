@@ -1,0 +1,14 @@
+.bttn{
+    position: absolute;
+    left:80%;
+    top:40%;
+    border:none;
+    background-color:white ;
+}
+.ur{
+    padding:8px 28px;
+    border-radius: 10px;
+}
+.nvbr{
+    background-color: red;
+}
